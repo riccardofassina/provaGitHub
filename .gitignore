@@ -1,0 +1,2 @@
+# ignore all .txt files * means that i want to ignore any file with a specific extension
+*.txt 
